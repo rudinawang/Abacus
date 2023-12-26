@@ -1,0 +1,131 @@
+table {
+  height: 450px;
+  width: 500px;
+  border: 2px solid;
+  border-radius: 50px;
+  border-spacing: 30px 40px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  /* align-content: center; */
+  /* padding: 10px; */
+}
+
+th {
+  border: 2px solid;
+}
+
+td {
+  border: 2px solid;
+  /* width: 100px; */
+}
+
+.ip {
+  height: 75px;
+  width: 500px;
+  font-size: 50px;
+}
+
+.seven {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.eight {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.nine {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.four {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.five {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.six {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.one {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.two {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.three {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.plus {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.minus {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.into {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.divide {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
+
+.zero {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 235px;
+}
+
+.equals {
+  font-size: 50px;
+  text-align: center;
+  height: 70px;
+  width: 100px;
+}
